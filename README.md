@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Esta é a simulação de uma landing page de um website propaganda da Apple. Estilizado em CSS, se fez necessário da prática para aperfeiçoar conhecimento de programação.
+Esta é a simulação de uma landing page de um website propaganda da Apple. Clique nas opções de cores para ver diferentes modelos ilustrativos do aparelho celular. 
 
 - [Visite o projeto online aqui](https://andrvss.github.io/iPhone.LP/)
 
